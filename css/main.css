@@ -250,6 +250,7 @@ p {
   padding: 14px 60px;
   font-size: 20px;
   margin: 15px;
+  margin-bottom:100px;
   border-radius: 6px;
   animation-name: shake;
   animation-duration: 1.5s;
